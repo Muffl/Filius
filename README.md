@@ -1,2 +1,2 @@
 # Filius
-Projekte für der Netzwerksimulatiossoftware Filius
+Projekte für die Netzwerksimulatiossoftware Filius
